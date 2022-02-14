@@ -1,0 +1,129 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', 'Oswald';
+}
+
+.container {
+    width: 90%;
+    margin-right: 30%;
+}
+
+.container2 {
+    margin-top: 0%;
+    width: 90%;
+    margin-left: 10%;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 90px;
+    margin-right: 100px;
+}
+
+.right ul{
+    display: flex;
+}
+
+.right ul li {
+    list-style: none;
+    margin-left: 100px;
+}
+
+.right ul li a {
+    width: 88px;
+    height: 43px;
+    left: 1200px;
+    top: 37px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #4F4949;
+    text-decoration: none;
+}
+
+.heading1 {
+    width: 293px;
+    height: 59px;
+    left: 80px;
+    top: 109px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 59px;
+    color: #BE5D5D;
+    margin-bottom: 0px;
+}
+
+.heading2 {
+    width: 647px;
+    height: 164px;
+    left: 78px;
+    top: 168px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 82px;
+    color: #4F4949;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.heading3 {
+    width: 146px;
+    height: 59px;
+    left: 80px;
+    top: 357px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 59px;
+    color: #BE5D5D;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.bodytext {
+    width: 847px;
+    height: 152px;
+    left: 78px;
+    top: 416px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 37px;
+    color: #4F4949;
+    margin-top: 0px;
+}
+
+.left img{
+    margin-right: 30px;
+    margin-top: 0px;
+}
+
+.right img{
+    margin-right: 30%;
+    margin-top: 5%;
+}
+
+.container2 .left{
+    width: 70%;
+    float: left;
+}
+
+.container2 .right{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30%;
+    width: 30%;
+}
